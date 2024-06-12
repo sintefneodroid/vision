@@ -1,3 +1,4 @@
 sphinx
 m2r
 sphinxcontrib-programoutput
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
